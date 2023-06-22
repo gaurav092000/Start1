@@ -10,7 +10,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is My first Program");
+            Console.WriteLine("This is My Second Program");
         }
     }
 }
