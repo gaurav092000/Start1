@@ -14,27 +14,27 @@ namespace ConsoleApp4
         public void add()
         {
             a = b + c;
-            Console.WriteLine(a);
+            Console.WriteLine("add :"+a);
         }
         public void sub()
         {
             a = b - c;
-            Console.WriteLine(a);
+            Console.WriteLine("sub :"+a);
         }
         public void mul()
         {
             a = b * c;
-            Console.WriteLine(a);
+            Console.WriteLine("mult:"+a);
         }
         public void div()
         {
             a = b / c;
-            Console.WriteLine(a);
+            Console.WriteLine("div:"+a);
         }
         public void mod()
         {
             a = a % c;
-            Console.WriteLine(a);
+            Console.WriteLine("mod :"+a);
         }
     }
 
