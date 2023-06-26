@@ -6,20 +6,18 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp4
 {
-    internal class Class35
+    internal class Class40
     {
+        static void Hello()
+        {
+            Console.WriteLine("hweloo world");
+        }
         static void Main()
         {
-            int[] a = { 34, 56, 21, 45, 23 };
-            Array.Sort(a);
-            Array.Reverse(a);
             
-            foreach (int n in a)
-            {
-                Console.WriteLine(n);
-                
-            }
+            Hello();
             Console.ReadKey();
+
         }
     }
 }

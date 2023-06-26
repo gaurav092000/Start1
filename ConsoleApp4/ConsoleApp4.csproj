@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp4.Class35</StartupObject>
+    <StartupObject>ConsoleApp4.Class50</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -75,8 +75,23 @@
     <Compile Include="Class33.cs" />
     <Compile Include="Class34.cs" />
     <Compile Include="Class35.cs" />
+    <Compile Include="Class36.cs" />
+    <Compile Include="Class37.cs" />
+    <Compile Include="Class38.cs" />
+    <Compile Include="Class39.cs" />
     <Compile Include="Class4.cs" />
+    <Compile Include="Class40.cs" />
+    <Compile Include="Class41.cs" />
+    <Compile Include="Class42.cs" />
+    <Compile Include="Class43.cs" />
+    <Compile Include="Class44.cs" />
+    <Compile Include="Class45.cs" />
+    <Compile Include="Class46.cs" />
+    <Compile Include="Class47.cs" />
+    <Compile Include="Class48.cs" />
+    <Compile Include="Class49.cs" />
     <Compile Include="Class5.cs" />
+    <Compile Include="Class50.cs" />
     <Compile Include="Class6.cs" />
     <Compile Include="Class7.cs" />
     <Compile Include="Class8.cs" />
