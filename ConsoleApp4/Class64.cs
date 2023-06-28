@@ -6,15 +6,18 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp4
 {
-    internal class Class60
+    internal class Class64
     {
         static void Main()
         {
-            string str = "Gaurav";
-            string str1=str + "Kawde";
-            Console.WriteLine(str1);
+
+            //interpolation
+            int age = 34;
+            string name = "Guarav";
+            Console.WriteLine($"My name is {name},my age is {age}");
             Console.ReadKey();
 
         }
+
     }
 }

@@ -13,13 +13,13 @@ namespace ConsoleApp4
         {
 
             // print the number 1 to 10
-            int n;
-            for (int i = 0; i <= 10; i++) 
-            {
-                Console.WriteLine(i);
+            //int n;
+            //for (int i = 0; i <= n; i++) 
+            //{
+            //    Console.WriteLine(i);
                 
-            }
-            Console.ReadKey();
+            //}
+            //Console.ReadKey();
         }
     }
 }

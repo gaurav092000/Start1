@@ -11,6 +11,7 @@ namespace ConsoleApp4
     {
         static void Main()
         {
+            //stopwatch
             Stopwatch stopwatch = new Stopwatch();
             Console.WriteLine("press enter to start the stopwatch");
           Console.ReadLine();
