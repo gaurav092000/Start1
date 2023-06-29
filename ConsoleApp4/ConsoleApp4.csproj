@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp4.Class66</StartupObject>
+    <StartupObject>ConsoleApp4.In2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -109,9 +109,13 @@
     <Compile Include="Class64.cs" />
     <Compile Include="Class65.cs" />
     <Compile Include="Class66.cs" />
+    <Compile Include="Class67.cs" />
+    <Compile Include="Class68.cs" />
     <Compile Include="Class7.cs" />
     <Compile Include="Class8.cs" />
     <Compile Include="Class9.cs" />
+    <Compile Include="In2.cs" />
+    <Compile Include="in3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

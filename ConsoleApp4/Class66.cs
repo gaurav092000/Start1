@@ -10,6 +10,7 @@ namespace ConsoleApp4
     {
         static void Main()
         {
+            
             var b=new List<string>();
             b.Add("Gaurav");
             b.Add("ramesh");
@@ -20,11 +21,12 @@ namespace ConsoleApp4
             {
                 Console.WriteLine(name);
             }
-            Console.WriteLine("index :"+b.IndexOf("Suresh"));
+            Console.WriteLine("index :"+ b.IndexOf("Suresh"));
             Console.WriteLine("count :"+b.Count());
             Console.ReadKey();
 
-
+             
+           // var b= new List<string>();
         }
     }
 }
