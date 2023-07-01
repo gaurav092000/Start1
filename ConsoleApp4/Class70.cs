@@ -40,6 +40,7 @@ namespace ConsoleApp4
             Console.WriteLine(c.geeet());
             Console.WriteLine(r.geeet());
             Console.ReadKey();
+
         }
     }
 }
